@@ -7,9 +7,11 @@
 
 ---
 
-### About Me
-Software Engineer specialized in building scalable and maintainable mobile applications.  
+## About Me
+Software Engineer specialized in building scalable and maintainable mobile applications using Flutter.
+
 Focused on clean architecture, performance optimization, and delivering smooth user experiences.  
+Also experienced with backend basics using Node.js to support full application workflows and API integration.
 
 Currently improving:
 - App architecture design
@@ -18,79 +20,83 @@ Currently improving:
 
 ---
 
-### Technical Skills
+## Technical Skills
 
-#### Mobile Development
+### Mobile Development
 - Flutter (UI, Navigation, Animations, Responsive Design)
 - Dart (OOP, Async Programming)
 - Android Native (Familiar)
 
-#### State Management
+### State Management
 - Cubit
 - BLoC
 - Provider
 
-#### Architecture & Patterns
+### Architecture & Patterns
 - Clean Architecture
 - MVVM
 - Feature-Based Modular Structure
 
-#### Computer Science
+### Backend (Supporting)
+- Node.js (REST APIs, Express.js – Basic Usage)
+- Firebase (Authentication, Firestore, Notifications)
+
+### Computer Science
 - Data Structures & Algorithms
 - Problem Solving
 
-#### Tools
+### Tools
 - Git & GitHub
 - VS Code / Android Studio
 - Figma
 
 ---
 
-### Skill Level Overview
+## Skill Level Overview
 
-| Skill                         | Level        |
-|------------------------------|--------------|
-| Mobile UI Development        | Advanced     |
-| Dart Language                | Advanced     |
-| State Management             | Advanced     |
-| Architecture Design          | Good         |
-| Data Structures & Algorithms | Good         |
-| Git & Version Control        | Good         |
+| Skill                         | Level    |
+|------------------------------|----------|
+| Mobile UI Development        | Advanced |
+| Dart Language                | Advanced |
+| State Management             | Advanced |
+| Architecture Design          | Good     |
+| Data Structures & Algorithms | Good     |
+| Git & Version Control        | Good     |
 
 ---
 
-### Experience Timeline
+## Experience Timeline
 
-| Year | Focus Area | Description |
-|------|------------|-------------|
-| 2022 | UI Fundamentals | Built strong foundation in Flutter UI & layouts |
+| Year | Focus Area        | Description |
+|------|------------------|-------------|
+| 2022 | UI Fundamentals  | Built strong foundation in Flutter UI & layouts |
 | 2023 | State Management | Applied Cubit & BLoC in real projects |
-| 2024 | Architecture | Implemented Clean Architecture & modular structure |
-| 2025 | Performance | Optimized apps & improved reusability |
+| 2024 | Architecture     | Implemented Clean Architecture & modular structure |
+| 2025 | Performance      | Optimized apps & improved reusability |
 
 ---
 
-### Projects
+## Projects
 
-#### Khetat+
+### Khetat+
 Football training platform connecting players with coaches  
 - Video-based training system  
 - Personalized improvement plans  
 - Clean structured architecture  
 
-#### Twa3ny
+### Twa3ny
 Community volunteering platform  
 - Connects users with NGOs & initiatives  
-- Simple and smooth application flow  
+- Smooth and simple user experience  
 - Focus on usability and accessibility  
 
-#### Fiber
+### Fiber
 Service booking application  
 - Modular scalable structure  
 - Clean UI components  
 - Maintainable codebase  
 
-#### E-commerce Food App
+### E-commerce Food App
 Full mobile commerce experience  
 - Product catalog & categories  
 - Cart & order flow  
@@ -98,8 +104,8 @@ Full mobile commerce experience
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,git,github,vscode,androidstudio,figma" />
 </p>
